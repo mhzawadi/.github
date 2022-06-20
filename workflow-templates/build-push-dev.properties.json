@@ -1,0 +1,8 @@
+{
+  "name": "Horwood Build",
+  "description": "Build and push to docker hub",
+  "iconName": "example-icon",
+  "categories": [
+    "Docker"
+  ]
+}
